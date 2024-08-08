@@ -9,7 +9,7 @@ const nextConfig = {
           { key: "Access-Control-Allow-Credentials", value: "true" },
           {
             key: "Access-Control-Allow-Origin",
-            value: "https://WWW.niti.com.ng/",
+            value: "https://niti.com.ng/",
           }, // replace this your actual origin
           {
             key: "Access-Control-Allow-Methods",
